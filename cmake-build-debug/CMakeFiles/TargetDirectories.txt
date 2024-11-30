@@ -1,0 +1,3 @@
+C:/Users/Shane D/CLionProjects/VirtualBeckey/cmake-build-debug/CMakeFiles/VirtualBeckey.dir
+C:/Users/Shane D/CLionProjects/VirtualBeckey/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Shane D/CLionProjects/VirtualBeckey/cmake-build-debug/CMakeFiles/rebuild_cache.dir
